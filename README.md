@@ -1,2 +1,3 @@
 # Web-Mashup-Display-House-Prices-on-a-Map----Zillow-API-
 google maps api
+In this project, I have inserted an overlay marker on the Google map pinned on the latest house that displays the house's postal address and its Zestimate value (the house value) from zillow.com. The text display area is the history log that displays all the houses (addresses and prices) that we have found so far (latest house is last). Each time we find a house, I erase the old marker from the map (if any) and display a new marker on the map on the house location (with address and price), and also append this information to the display area.
